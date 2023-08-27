@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-06-04T19:01:53Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Final"
+        },
+        "Owner": "zulfikar bella ali <zulfikar.bellaali.te20@mhsw.pnj.ac.id>",
+        "Size": {
+            "X": 77.14,
+            "Y": 80
+        }
+    }
+}
