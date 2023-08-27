@@ -8,6 +8,6 @@ Menghubungkan alat melalui socket AC ke sumber listrik.
 1. Menghubungkan ESP 32 dengan jaringan Wi-Fi yang memiliki akses internet
 2. Buka aplikasi "Freshism" yang sudah diinstal pada smartphone
 3. Sensor akan membaca nilai udara dan debu dan hasilnya akan tampil di aplikasi
-4. 4. Tekan Tombol ON untuk mengaktifkan Kipas DC
+4. Tekan Tombol ON untuk mengaktifkan Kipas DC
 5. Pilih Mode "Auto" pada tombol aplikasi "Freshism"
 6. jika indikator kualitas udara tidak sehat, maka indikator led akan berwarna merah, tampilan aplikasi tidak sehat, dan kipas dc menyala
